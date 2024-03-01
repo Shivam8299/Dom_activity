@@ -1,0 +1,21 @@
+body {
+    text-align: center;
+}
+div {
+    height: 130px;
+    width: 500px;
+    font-weight: 600;
+    border: 1px solid black;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#btn {
+    padding: 10px 20px;
+    font-weight: 600;
+    border-radius: 5px;
+    background-color: rgb(134,97,15);
+    /* color: white; */
+    
+}
